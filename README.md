@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning data structures and algo
 - 💞️ I’m looking to collaborate on your projects!!!
 - 📫 How to reach me? Message me at my email, projectsrafisaiyari@gmail.com
+- 
 text
 [Check out my portfolio!](https://portfolio-vite-react-dpsfkdzgb-rafisaiyaris-projects.vercel.app/)
 <!---
