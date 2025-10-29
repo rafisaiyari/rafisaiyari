@@ -1,17 +1,16 @@
 # Hi there, I'm Mohammad Rafi Saiyari 👋
 
-## Full-Stack Developer | Supervised Learning Enthusiast | Software Developer
+## Full-Stack Developer | Supervised Learning and React Enthusiast
 
-I'm a passionate software developer focused on building meaningful applications that solve real-world problems. With expertise in modern web technologies and a growing interest in machine learning, I enjoy creating efficient, scalable solutions from frontend to backend.
+I'm a passionate software developer focused on building meaningful applications that solve real-world problems. With experience in modern web technologies and a growing interest in machine learning, I enjoy creating efficient, scalable solutions from frontend to backend.
 
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently honing my skills to become a better developer
-- 🌱 Learning **Spring Boot** to expand my backend expertise
 - 🤝 Open to collaborations on projects that **solve real-world problems**
-- 💡 Enthusiastic about integrating machine learning with web applications
+- 💡 Enthusiastic about integrating machine learning and web applications
 
 ---
 
