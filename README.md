@@ -1,4 +1,4 @@
-# Hi there, I'm Mohammad Rafi Saiyari 👋
+# Mohammad Rafi Saiyari
 
 <div align="center">
   
@@ -14,12 +14,9 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Bio
 
-- 🔭 Currently honing my skills to become a better developer
-- 🤝 Open to collaborations on projects that **solve real-world problems**
-- 💡 Enthusiastic about integrating machine learning and web applications
-- 🌱 Learning Spring Boot and exploring new technologies
+I'm currently honing my skills to become a better developer, with a strong enthusiasm for web applications, standalone applications and integration of machine learning. I'm open to collaborations on projects that solve real-world problems and am actively learning Spring Boot while exploring new technologies to expand my expertise.
 
 ---
 
@@ -59,19 +56,20 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🌊 Algal Bloom Prediction System
+
 A machine learning application that predicts algal bloom occurrences using supervised learning techniques. Built to address environmental monitoring and water quality management.
 
-**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Matplotlib` `Seaborn` • *HTML/JS/CSS for geospatial heatmap*
+**Tech Stack:** `Python` `Scikit-learn` `Pandas` `Matplotlib` • *HTML/JS/CSS for geospatial heatmap*
 
 [![View Project](https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafisaiyari/algal-bloom-prediction-system)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>💬 Chat Application</h3>
+### 💬 Chat Application
 
 Real-time chat application with modern UI/UX, enabling seamless communication between users.
 
